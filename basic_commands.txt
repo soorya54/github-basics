@@ -1,0 +1,7 @@
+Basic commands
+
+To clone a repo -> git clone <repo ssh/https>
+
+To pull new changes in repo -> git pull
+
+To checkout to another branch -> git checkout <branch_name>
